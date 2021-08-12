@@ -1,0 +1,13 @@
+.upit:hover{
+    color:rgb(138, 241, 134);
+}
+.sts{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+.tp{
+    z-index: 10;
+    
+}
