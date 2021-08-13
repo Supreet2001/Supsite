@@ -11,3 +11,6 @@
     z-index: 10;
     
 }
+.hvs:hover{
+    transform: scale(1.1);
+}
